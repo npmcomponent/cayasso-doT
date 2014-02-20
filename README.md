@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [cayasso/dot](http://github.com/cayasso/dot). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/cayasso-dot`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 Created in search of the fastest and concise JavaScript templating function with emphasis on performance under V8 and nodejs. It shows great performance for both nodejs and browsers.
 
 doT.js is fast, small and has no dependencies.
